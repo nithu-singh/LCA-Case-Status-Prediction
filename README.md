@@ -9,7 +9,3 @@ The Labor Condition Application (*LCA*) is an application filed by prospective e
 
 In this project, we aim to predict the case status, Certified or Denied, for an application files by an employer.
 
-Dataset used:
-
-https://www.foreignlaborcert.doleta.gov/pdf/PerformanceData/2018/H-1B_FY2018.xlsx
-https://www.foreignlaborcert.doleta.gov/pdf/PerformanceData/2017/H-1B_Disclosure_Data_FY17.xlsx
